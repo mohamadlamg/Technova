@@ -67,7 +67,7 @@ main{
 }
 
 .part1{
-    background-image: url(/\ Images/hevea1.jpg);
+    background-color: #0d1433;
     background-size: cover;
     background-repeat: no-repeat;
     /* width: 100%; */
